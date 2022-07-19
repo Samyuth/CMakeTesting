@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Sagi/Documents/OSS/lab8/src/MathFunctions/MathFunctions.h
+
+/mnt/c/Users/Sagi/Documents/OSS/lab8/src/tutorial.cxx
+cmath
+-
+iostream
+-
+string
+-
+TutorialConfig.h
+/mnt/c/Users/Sagi/Documents/OSS/lab8/src/TutorialConfig.h
+MathFunctions.h
+/mnt/c/Users/Sagi/Documents/OSS/lab8/src/MathFunctions.h
+
+TutorialConfig.h
+

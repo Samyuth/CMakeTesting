@@ -1,0 +1,8 @@
+/mnt/c/Users/Sagi/Documents/OSS/lab8/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Sagi/Documents/OSS/lab8/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Sagi/Documents/OSS/lab8/build/CMakeFiles/test.dir
+/mnt/c/Users/Sagi/Documents/OSS/lab8/build/CMakeFiles/Tutorial.dir
+/mnt/c/Users/Sagi/Documents/OSS/lab8/build/MathFunctions/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Sagi/Documents/OSS/lab8/build/MathFunctions/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Sagi/Documents/OSS/lab8/build/MathFunctions/CMakeFiles/test.dir
+/mnt/c/Users/Sagi/Documents/OSS/lab8/build/MathFunctions/CMakeFiles/MathFunctions.dir
